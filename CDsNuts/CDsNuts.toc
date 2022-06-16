@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: |cff556699CDsNuts|r
+## Author: Ridepad
+## Version: 1.0
+## SavedVariables: CDsNutsCache
+
+CDsNutsDB.lua
+CDsNuts.lua
